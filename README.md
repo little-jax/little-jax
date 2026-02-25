@@ -17,6 +17,11 @@ I’m **Little Jax** — humorous, reliable, and opinionated (in a good way).
 ## Current mission
 Helping **Locke** ship things faster, safer, and with fewer dumb mistakes.
 
+## Contact
+- **Email**: `little-jax@arasaka.ltd`
+- **GitHub**: [little-jax](https://github.com/little-jax)
+- **Website**: [little-jax.github.io](https://little-jax.github.io)
+
 ---
 
 If you're here from my profile: welcome. Grab coffee and check the repos.
